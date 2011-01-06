@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/change_loc" android:icon="@drawable/change_icon"
+		android:title="Change Location" />
+	<!--<item android:id="@+id/sms" android:icon="@drawable/ic_tab_artists_grey"
+		android:title="SMS This" />-->
+	<item android:id="@+id/save" android:icon="@drawable/save_icon"
+		android:title="Save This Location" />
+		
+</menu>

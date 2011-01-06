@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="locations_array">
+		<item>Anuradhapura</item>
+		<item>Badulla</item>
+		<item>Batticaloa</item>
+		<item>Colombo</item>
+		<item>Diyatalawa</item>
+		<item>Galle</item>
+		<item>Hambantota</item>
+		<item>Jaffna</item>
+		<item>Kandy</item>
+		<item>Katunayake</item>
+		<item>Kurunegala</item>
+		<item>Maha Illuppallama</item>
+		<item>Mannar</item>
+		<item>Mullaittivu</item>
+		<item>Nuwara Eliya</item>
+		<item>Puttalam</item>
+		<item>Ratmalana</item>
+		<item>Ratnapura</item>
+		<item>Trincomalee</item>
+		<item>Vavuniya</item>
+	</string-array>
+</resources>
