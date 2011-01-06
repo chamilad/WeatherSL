@@ -303,11 +303,7 @@ public class main extends TabActivity {
 			textview
 					.setText((String) message.getData().getString("visibility"));
 
-			/*
-			 * textview = (TextView) findViewById(R.id.);
-			 * textview.setText((String) message.getData().getString(
-			 * "Info Courtesy"));
-			 */
+			
 
 			/*
 			 * GetWeatherIcon get_weather_icon = new GetWeatherIcon();
